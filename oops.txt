@@ -1,0 +1,13 @@
+object oriented programming System/Structure
+oops is a programming methodology to write a code and perform some tasks.
+
+6 pillers
+classes
+objects and method
+inheritance
+polymorphism
+abstraction 
+encapsulation
+
+samll talk is pure oops language
+java is partailly because it supports primitive datatypes
